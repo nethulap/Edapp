@@ -34,8 +34,9 @@ for eg: to get list of users http://localhost:8080/api/user
 4. To add a new bid to an item
 ```bash
    http://localhost:5000/api/item/1/bid
+```
+ ### edapp.tests
 
-## edapp.tests
 To run tests
 ```bash
 dotnet test
