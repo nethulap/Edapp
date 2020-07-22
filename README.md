@@ -14,8 +14,8 @@ Perform the following things to run this api on localhost:5000
 3. dotnet run
 ```
 
-Once everything is build and compile you can access the api at http://localhost:8080. 
-for eg: to get list of users http://localhost:8080/api/user
+Once everything is build and compile you can access the api at http://localhost:5000. 
+for eg: to get list of users http://localhost:5000/api/user/1
 
 ### Api urls
 
